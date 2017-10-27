@@ -7,3 +7,4 @@ first git
 4、本地仓库执行git remote add origin git@github.com:xiaoming12/learngit.git
 5、本地代码push到远程仓库 git push -u origin master
 6、git push origin master推送最新修改
+注意：最新修改也是需要先commit到本地库然后再push
