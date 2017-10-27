@@ -1,0 +1,7 @@
+https://en.wikipedia.org/wiki/Java_Community_Process#cite_note-5
+https://en.wikipedia.org/wiki/StAX
+https://www.jcp.org/en/jsr/detail?id=173
+https://www.jcp.org/en/jsr/detail?id=206
+http://download.oracle.com/otndocs/jcp/jaxp-1.4-mrel-oth-JSpec/
+http://download.oracle.com/otn-pub/jcp/jaxp-1.4-mrel-oth-JSpec/jaxp-1_4-mrel-spec.pdf?AuthParam=1508916632_873803dba4078b7e724df15812ca38cc
+https://en.wikipedia.org/wiki/Java_XML
